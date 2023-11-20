@@ -21,6 +21,8 @@ Relevant Certifications
 * Containers w/ Docker, Kubernetes & OpenShift - IBM
 * DevOps & Cloud Computing Essentials - IBM
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&hide=contribs,prs)
+
 
 Let's Collaborate!
 I encourage contributions to my projects. Whether you have ideas, improvements, or bug fixes, feel free to fork the repository and submit pull requests. Collaboration is key to the success of any DevOps project.
