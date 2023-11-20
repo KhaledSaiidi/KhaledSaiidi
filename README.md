@@ -13,13 +13,14 @@ This project automates the deployment of an Amazon Elastic Kubernetes Service (E
 DevOps-Automated-Pipeline
 Automate your CI/CD pipeline with this project! Dockerize your Java application, integrate with Nexus for artifact management, perform Gradle builds with SonarQube analysis, create Helm charts for Kubernetes deployment, and ensure Helm charts are tested for misconfigurations using datree.io.
 
-Certifications
+Relevant Certifications
 * DevOps on AWS Specialization: Deploy and Release
 * DevOps on AWS Specialization: Code, Build and Test
 * AWS Cloud Practitioner Essentials - AWS
 * Application Development using Microservices and Serverless - IBM
 * Containers w/ Docker, Kubernetes & OpenShift - IBM
 * DevOps & Cloud Computing Essentials - IBM
+
 
 Let's Collaborate!
 I encourage contributions to my projects. Whether you have ideas, improvements, or bug fixes, feel free to fork the repository and submit pull requests. Collaboration is key to the success of any DevOps project.
