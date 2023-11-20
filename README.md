@@ -14,12 +14,34 @@ DevOps-Automated-Pipeline
 Automate your CI/CD pipeline with this project! Dockerize your Java application, integrate with Nexus for artifact management, perform Gradle builds with SonarQube analysis, create Helm charts for Kubernetes deployment, and ensure Helm charts are tested for misconfigurations using datree.io.
 
 Relevant Certifications
+* DevOps on Specialization: AWS Operate and Monitor
 * DevOps on AWS Specialization: Deploy and Release
 * DevOps on AWS Specialization: Code, Build and Test
 * AWS Cloud Practitioner Essentials - AWS
 * Application Development using Microservices and Serverless - IBM
 * Containers w/ Docker, Kubernetes & OpenShift - IBM
 * DevOps & Cloud Computing Essentials - IBM
+
+Skills
+
+DevOps Tools 🚀
+
+* AWS: EC2, S3, CodePipeline, CodeBuild, CodeDeploy, CloudFormation
+* CI/CD: Jenkins
+* Containers: Docker, Kubernetes (microk8s)
+* Infrastructure as Code: Terraform
+* Configuration Management: Ansible
+* Code Quality: SonarQube
+
+Cloud and Development Tools ☁️💻
+
+* AWS Storage Services
+* Version Control: Git, Gitlab
+* Kubernetes Management: Helm
+* Java Development: Spring, Spring Security, Spring Data JPA, Spring Cloud
+* Front-end: Angular
+* Microservices Architecture
+* Authentication/Authorization: Keycloak
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
