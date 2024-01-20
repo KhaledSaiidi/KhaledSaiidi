@@ -33,7 +33,7 @@ Cloud and Development Tools ☁️💻
 * Microservices Architecture
 * Authentication/Authorization: Keycloak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&hide=commit_rank&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&hide=issues&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
  
 Let's Collaborate!
 I encourage contributions to my projects. Whether you have ideas, improvements, or bug fixes, feel free to fork the repository and submit pull requests. Collaboration is key to the success of any DevOps project.
