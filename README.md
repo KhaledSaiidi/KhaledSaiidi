@@ -18,7 +18,7 @@ DevOps Tools 🚀
 
 * AWS: EC2, S3, CodePipeline, CodeBuild, CodeDeploy, CloudFormation
 * CI/CD: Jenkins
-* Containers: Docker, Kubernetes (microk8s)
+* Containers: Docker, Kubernetes
 * Infrastructure as Code: Terraform
 * Configuration Management: Ansible
 * Code Quality: SonarQube
