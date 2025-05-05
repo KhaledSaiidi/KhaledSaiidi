@@ -17,7 +17,7 @@ Skills
 DevOps Tools 🚀
 
 * AWS: EC2, S3, CodePipeline, CodeBuild, CodeDeploy, CloudFormation
-* CI/CD: Jenkins
+* CI/CD: Github Actions, Gitlab CICD, Jenkins
 * Containers: Docker, Kubernetes
 * Infrastructure as Code: Terraform
 * Configuration Management: Ansible
@@ -26,9 +26,9 @@ DevOps Tools 🚀
 Cloud and Development Tools ☁️💻
 
 * AWS Storage Services
-* Version Control: Git, Gitlab
+* Version Control: Git
 * Kubernetes Management: Helm
-* Java Development: Spring, Spring Security, Spring Data JPA, Spring Cloud
+* Java Development: Spring, Spring Security, Spring Cloud
 * Front-end: Angular
 * Microservices Architecture
 * Authentication/Authorization: Keycloak
