@@ -1,7 +1,7 @@
 # 💫 About Me:
-I’m a results‑driven DevOps Engineer, with a strong software engineering foundation and a passion for building highly available, scalable infrastructure. I specialize in automating end‑to‑end CI/CD pipelines, and orchestrating containers at scale. 
-With deep expertise in hybrid cloud and bare‑metal architectures, Infrastructure as Code, and observability, I ensure resilient, secure deployments for mission‑critical environments.
-I hold multiple AWS and IBM certifications—such as AWS DevOps Specializations, and Containers with Docker/Kubernetes  & OpenShift—and continuously expand my skill set in emerging technologies. 
+Results-driven Platform Engineer with a strong software engineering foundation and a passion for building resilient, scalable systems.
+Focused on enabling teams through self-service infrastructure, automation, and observability, I design and maintain highly available hybrid and bare-metal environments using Infrastructure as Code and modern orchestration tools.
+Certified across AWS and IBM DevOps and Cloud-Native specializations, continuously advancing expertise in distributed systems and emerging platform technologies.
 
 # 💻 Tech Stack:
 #### 🧰 DevOps & Automation
@@ -52,7 +52,7 @@ I hold multiple AWS and IBM certifications—such as AWS DevOps Specializations,
 #### 🚀 Event Streaming
 ![Kafka](https://img.shields.io/badge/Kafka-%23F58426.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
  
-# 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&hide=issues&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Happy automating! 🚀
