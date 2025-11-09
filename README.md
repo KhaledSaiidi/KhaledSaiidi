@@ -1,58 +1,137 @@
-# 💫 About Me:
-Results-driven Platform Engineer with a strong software engineering foundation and a passion for building resilient, scalable systems.
-Focused on enabling teams through self-service infrastructure, automation, and observability, I design and maintain highly available hybrid and bare-metal environments using Infrastructure as Code and modern orchestration tools.
-Certified across AWS and IBM DevOps and Cloud-Native specializations, continuously advancing expertise in distributed systems and emerging platform technologies.
+<h1 align="center">👋 Hi, I'm <span style="color:#FF4C60;">Khaled Saidi</span></h1>
+<h3 align="center">🏗️ Platform Engineer • Cloud Infrastructure • Automation & Reliability</h3>
 
-# 💻 Tech Stack:
-#### 🧰 DevOps & Automation
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![CAPI](https://img.shields.io/badge/CAPI-%23007ACC?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Crossplane](https://img.shields.io/badge/Crossplane-%230052CC?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-%2354355E.svg?style=for-the-badge&logo=vault&logoColor=white)
-#### 🎛️ Orchestration & Containerization
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kops](https://img.shields.io/badge/Kops-%23509DD5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-%230F78D4.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-#### ⚙️ CI/CD
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-%23004C8C?style=for-the-badge&logo=argocd&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-#### ☁️ Cloud & Private Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-%23F3762B.svg?style=for-the-badge&logo=openstack&logoColor=white)
-#### 📊 Monitoring & Logging
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-%2300D5FF.svg?style=for-the-badge&logo=loki&logoColor=black)
-![ELK](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black)
-#### 🌐 Networking & Service Mesh
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-%23000000.svg?style=for-the-badge&logo=haproxy&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-%23006CDF.svg?style=for-the-badge&logo=istio&logoColor=white)
-![Calico](https://img.shields.io/badge/Calico-%232B366E.svg?style=for-the-badge&logo=projectcalico&logoColor=white)
-![Cilium](https://img.shields.io/badge/Cilium-%2300B0EF.svg?style=for-the-badge&logo=cilium&logoColor=white)
-#### 💾 Storage
-![Ceph](https://img.shields.io/badge/Ceph-%23DF3A2D.svg?style=for-the-badge&logo=ceph&logoColor=white)
-![Longhorn](https://img.shields.io/badge/Longhorn-%23D92B2B.svg?style=for-the-badge&logo=longhorn&logoColor=white)
-#### 🧩 Programming Languages, Frameworks & Templating
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-#### 🚀 Event Streaming
-![Kafka](https://img.shields.io/badge/Kafka-%23F58426.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
- 
-## 📊 GitHub Stats
-[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Happy automating! 🚀
+## 💫 About Me  
+
+Results-driven **Platform Engineer** with a strong foundation in **System Administration, DevOps methodologies, and Software Engineering**.  
+I design and maintain **scalable, secure, and resilient infrastructure** through **Infrastructure as Code**, automation, and observability-first practices.  
+
+🔹 Experienced in **hybrid cloud** and **bare-metal** platform operations.  
+🔹 Expert in **Kubernetes, GitOps, CI/CD pipelines**, and infrastructure automation.  
+🔹 Skilled in **monitoring, troubleshooting, and SRE practices** to ensure reliability at scale.  
+🔹 Certified across **AWS and IBM Cloud-Native DevOps**, continuously expanding platform expertise.  
+
+---
+
+## 🧭 My Platform Engineering Stack
+<!-- ⚠️ KEEPING YOUR TABLE EXACTLY AS IS -->
+
+<table align="center">
+<tr>
+  <th>🛠️ Infra / Platform-Automation</th>
+  <th>🌐 Cluster Platforms</th>
+  <th>🔄 CI/CD & GitOps</th>
+</tr>
+
+<tr>
+  <td align="left">
+    <img src="https://img.shields.io/badge/Terraform-5B35CC?style=flat-square&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Terragrunt-4044B3?style=flat-square&logo=terraform&logoColor=white">
+    <img src="https://img.shields.io/badge/Opentofu-4E4C50?style=flat-square&logo=opentofu&logoColor=white">
+    <img src="https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white">
+    <img src="https://img.shields.io/badge/Vault-54355E?style=flat-square&logo=vault&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white">
+    <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+  </td>
+
+  <td align="left">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Helm-0F78D4?style=flat-square&logo=helm&logoColor=white">
+    <img src="https://img.shields.io/badge/Kustomize-2E5AAC?style=flat-square&logo=kubernetes&logoColor=white">
+    <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white">
+    <img src="https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Talos-000000?style=flat-square&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Istio-006CDF?style=flat-square&logo=istio&logoColor=white">
+    <img src="https://img.shields.io/badge/Calico-2B366E?style=flat-square&logo=kubernetes&logoColor=white">
+  </td>
+
+  <td align="left">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2661E5?style=flat-square&logo=githubactions&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab_CI-181717?style=flat-square&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Argo_CD-004C8C?style=flat-square&logo=argo&logoColor=white">
+    <img src="https://img.shields.io/badge/Flux-0098FF?style=flat-square&logo=flux&logoColor=white">
+    <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-2C5263?style=flat-square&logo=jenkins&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Harbor-2E86C1?style=flat-square&logo=harbor&logoColor=white">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+    <img src="https://img.shields.io/badge/Velero-2C92F0?style=flat-square&logo=kubernetes&logoColor=white">
+  </td>
+</tr>
+
+<tr>
+  <th>☁️ Cloud & Observability</th>
+  <th>💾 Data, Storage & Streaming</th>
+  <th>💻 Languages & Frameworks</th>
+</tr>
+
+<tr>
+  <td align="left">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white">
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+    <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white">
+    <img src="https://img.shields.io/badge/Loki-00D5FF?style=flat-square&logo=grafana&logoColor=white">
+    <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=flat-square&logo=opentelemetry&logoColor=000">
+  </td>
+
+  <td align="left">
+    <img src="https://img.shields.io/badge/Ceph-DF3A2D?style=flat-square&logo=ceph&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenEBS-F7931E?style=flat-square&logo=openebs&logoColor=white">
+    <img src="https://img.shields.io/badge/Longhorn-D92B2B?style=flat-square&logo=rancher&logoColor=white">
+    <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white">
+    <img src="https://img.shields.io/badge/Kafka-F58426?style=flat-square&logo=apachekafka&logoColor=white">
+  </td>
+
+  <td align="left">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
+    <img src="https://img.shields.io/badge/Jinja-FFFFFF?style=flat-square&logo=jinja&logoColor=000">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  </td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical" alt="Khaled's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledSaiidi&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:khaled.saiidi@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Empowering Automation • Observability • Reliability ✨</h3>
+<h4 align="center">“Build once, scale everywhere.”</h4>
