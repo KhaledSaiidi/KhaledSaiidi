@@ -114,7 +114,7 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical" alt="Khaled's GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KhaledSaiidi&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KhaledSaiidi&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -122,11 +122,11 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:khaled.saiidi@outlook.com" target="_blank">
+  <a href="mailto:khaled.saiidi@outlook.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/💼%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
