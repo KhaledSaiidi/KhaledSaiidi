@@ -121,15 +121,7 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
 
 ## 🤝 Connect With Me  
 
-<p align="center">
-  <a href="mailto:khaled.saiidi@outlook.com" target="_blank">
-    <img src="./assets/email-button.svg" alt="Email" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank">
-    <img src="./assets/linkedin-button.svg" alt="LinkedIn" height="40">
-  </a>
-</p>
+<p align="center"><a href="mailto:khaled.saiidi@outlook.com" target="_blank"><img src="./assets/email-button.svg" alt="Email" height="40"></a>&nbsp;&nbsp;<span style="margin-left: 20px;"></span><a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank"><img src="./assets/linkedin-button.svg" alt="LinkedIn" height="40"></a></p>
 
 ---
 
