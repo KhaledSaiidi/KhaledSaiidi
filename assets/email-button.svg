@@ -2,15 +2,18 @@
   <!-- Background -->
   <rect x="0" y="0" width="160" height="40" rx="20" fill="#0D6EFD"/>
 
-  <!-- Envelope icon background -->
-  <rect x="16" y="10" width="24" height="20" rx="4" fill="none" stroke="#FFFFFF" stroke-width="2"/>
-  <!-- Envelope flap -->
-  <polyline points="18 12 28 20 38 12" fill="none" stroke="#FFFFFF" stroke-width="2"/>
-  <!-- Envelope bottom lines -->
-  <polyline points="18 28 28 20 38 28" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <!-- Envelope outline -->
+  <rect x="16" y="11" width="28" height="18" rx="4"
+        fill="none" stroke="#FFFFFF" stroke-width="2"/>
+
+  <!-- Top V flap (now fully inside rectangle) -->
+  <path d="M18 13 L30 21 L42 13"
+        fill="none" stroke="#FFFFFF" stroke-width="2"/>
 
   <!-- Text -->
-  <text x="60" y="24" fill="#FFFFFF" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="600">
+  <text x="60" y="25" fill="#FFFFFF"
+        font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="14" font-weight="600">
     Email
   </text>
 </svg>
