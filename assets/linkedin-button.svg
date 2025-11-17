@@ -1,0 +1,16 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="160" height="40" rx="20" fill="#0A66C2"/>
+
+  <!-- LinkedIn icon background -->
+  <rect x="16" y="10" width="20" height="20" rx="3" fill="#FFFFFF"/>
+  <!-- "in" text -->
+  <text x="21" y="25" fill="#0A66C2" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700">
+    in
+  </text>
+
+  <!-- Label text -->
+  <text x="60" y="24" fill="#FFFFFF" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="600">
+    LinkedIn
+  </text>
+</svg>

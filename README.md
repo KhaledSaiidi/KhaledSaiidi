@@ -122,12 +122,12 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:khaled.saiidi@outlook.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <a href="mailto:khaled.saiidi@outlook.com" target="_blank">
+    <img src="./assets/email-button.svg" alt="Email" height="40">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/khaled-saiidi/" target="_blank">
+    <img src="./assets/linkedin-button.svg" alt="LinkedIn" height="40">
   </a>
 </p>
 
