@@ -33,9 +33,10 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
     <img src="https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white">
     <img src="https://img.shields.io/badge/Vault-54355E?style=flat-square&logo=vault&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white">
   </td>
 
   <td align="left">
@@ -97,8 +98,8 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
   </td>
 
   <td align="left">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
     <img src="https://img.shields.io/badge/Jinja-FFFFFF?style=flat-square&logo=jinja&logoColor=000">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
