@@ -114,7 +114,7 @@ I design and maintain **scalable, secure, and resilient infrastructure** through
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-eta-10.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&cache_seconds=86400&theme=radical" height="195" width="426"/>   &nbsp;&nbsp;
+  <img src="https://github-readme-stats-ten-eta-10.vercel.app/api?username=KhaledSaiidi&show_icons=true&hide=issues&include_all_commits=true&theme=radical" height="195" width="426"/>   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KhaledSaiidi&theme=radical&hide_border=true" height="200" width="400"/>
 </p>
 
